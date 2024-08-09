@@ -14,10 +14,8 @@ This project is an AI chatbot built using Flask for the backend and web technolo
 ## Project Structure
 
 - `app.py`: Contains the Flask backend that handles routing and communication with the AI model.
-- `templates/index.html`: The main HTML file for the chatbot interface.
-- `static/css/styles.css`: Custom CSS for styling the chatbot.
-- `static/js/script.js`: JavaScript for handling user interactions, AJAX requests, and speech functionality.
-- `static/images/`: Contains user and bot avatars.
+- `templates/index.html`: The main HTML file for the chatbot interface. This also include the styling and javascript code that enables the interface and 
+
 
 ## Installation and Setup
 
