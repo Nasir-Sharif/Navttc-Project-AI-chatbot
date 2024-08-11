@@ -13,8 +13,8 @@ This project is an AI chatbot built using Flask for the backend and web technolo
 
 ## Project Structure
 
-- `app.py`: Contains the Flask backend that handles routing and communication with the AI model.
-- `templates/index.html`: The main HTML file for the chatbot interface. This also include the styling and javascript code that enables the interface and 
+- `python.py`: Contains the Flask backend that handles routing and communication with the AI model.
+- `templates/new.html`: The main HTML file for the chatbot interface. This also include the styling and javascript code that enables the interface and 
 
 
 ## Installation and Setup
@@ -38,7 +38,7 @@ This project is an AI chatbot built using Flask for the backend and web technolo
 
 4. Run the Flask application:
    ```bash
-   python app.py
+   python python.py
    ```
 
 5. Open your web browser and navigate to `http://127.0.0.1:5000/` to use the chatbot.
